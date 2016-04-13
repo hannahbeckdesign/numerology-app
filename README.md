@@ -1,11 +1,11 @@
-# numerology-app
+# Numerology App
 App that retrieves the users birthdate, returns their birthpath number, and stores their data in a database. Created with Ruby, Sinatra and Active Record<br>
 
 #Installation
 
-run bundle install<br>
+bundle install<br>
 
-#Require:<br>
+#Require<br>
 
 gem 'activerecord'<br>
 gem 'pg'<br>
