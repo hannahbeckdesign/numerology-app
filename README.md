@@ -1,15 +1,18 @@
 # numerology-app
-Created with Ruby, Sinatra and Active Record
+App that retrieves the users birthdate, returns their birthpath number, and stores their data in a database. Created with Ruby, Sinatra and Active Record<br>
 
-Requires:
+#Installation
 
-gem 'activerecord'
-gem 'pg'
-gem 'rspec'
-gem 'sinatra'
-gem 'sinatra-activerecord'
-gem 'rake'
-gem 'rack'
-gem 'rack-test'
-gem 'faker'
+run bundle install<br>
 
+#Require:<br>
+
+gem 'activerecord'<br>
+gem 'pg'<br>
+gem 'rspec'<br>
+gem 'sinatra'<br>
+gem 'sinatra-activerecord'<br>
+gem 'rake'<br>
+gem 'rack'<br>
+gem 'rack-test'<br>
+gem 'faker'<br>
